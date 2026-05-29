@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20260415</CreaDate><CreaTime>17120800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\3D Analyst Tools.tbx\RasterTin" Date="20260415" Time="171208">RasterTin D:/01003_TerrainGeneralization/data/exp03/00_source/dem.tif D:/01003_TerrainGeneralization/data/exp03/5002_t_50000\output_tin 1 50000 1</Process></lineage></DataProperties></Esri></metadata>

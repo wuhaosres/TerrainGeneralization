@@ -1,0 +1,7 @@
+202604091027   0     0     027209 d:\01003_terraingeneralization\data\exp02\fm3_n400c50_001\hill_1.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp02\00_so
+202604091027   0     0     027209 d:\01003_terraingeneralization\data\exp02\fm3_n400c50_001\hill_2.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp02\00_so
+202604091027   0     0     027209 d:\01003_terraingeneralization\data\exp02\fm3_n400c50_001\hill_3.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp02\00_so
+202604091059   0     0     027209 D:\01003_TerrainGeneralization\exp\02\fm3_n400c50_001\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\exp\02\fm3_n400c50_001
+202604141109   0     0     027209 D:\01003_TerrainGeneralization\exp\02\00_source\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\exp\02\00_source\dem.tif,
+202604141109   0     0     027209 D:\01003_TerrainGeneralization\exp\02\fm3_n400c50_001\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\exp\02\fm3_n400c50_001
+202604141109   0     0     027209 D:\01003_TerrainGeneralization\exp\02\pm_n1000c50_025\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\exp\02\pm_n1000c50_

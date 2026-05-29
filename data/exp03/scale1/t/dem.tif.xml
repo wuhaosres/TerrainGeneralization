@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20260415</CreaDate><CreaTime>17120800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\3D Analyst Tools.tbx\TinRaster" Date="20260415" Time="171208">TinRaster D:/01003_TerrainGeneralization/data/exp03/5002_t_50000\output_tin D:/01003_TerrainGeneralization/data/exp03/5002_t_50000\dem.tif 整型 线性 像元大小 1 0.0002773777778</Process></lineage></DataProperties></Esri></metadata>

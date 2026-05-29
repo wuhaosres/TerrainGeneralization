@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20260409</CreaDate><CreaTime>10474500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\PointToRaster" Date="20260409" Time="104745">PointToRaster C:/Users/27209/Documents/ArcGIS/Default2.gdb\dem_p_attr H ..\data\exp02\fm2_n2000c50_001\dem.tif 最常见 NONE 2.77777777777781E-04 BUILD</Process></lineage></DataProperties></Esri></metadata>

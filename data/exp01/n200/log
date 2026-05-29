@@ -1,0 +1,16 @@
+20260405 100   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+20260405 100   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+20260405 110   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+20260405 110   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+20260405 140   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+20260405 140   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+20260405 224   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+20260405 224   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+202604051716   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+202604051716   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+202604051717   0     0     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c100_030\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\data\exp01\op\n200
+202604051717   0     1     027209 D:\01003_TerrainGeneralization\data\exp01\op\n200c10_001\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\data\exp01\op\n2
+202605072100   0     0     027209 D:\01003_TerrainGeneralization\exp\exp01\data\01\n200\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\exp\exp01\data\01\n200
+202605072100   0     0     027209 D:\01003_TerrainGeneralization\exp\exp01\data\01\n2000\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\exp\exp01\data\01\
+202605091750   0     0     027209 D:\01003_TerrainGeneralization\exp\exp01\data\01\n200\valley = STREAMSHAPE(D:\01003_TerrainGeneralization\exp\exp01\data\01\n200
+202605091750   0     0     027209 D:\01003_TerrainGeneralization\exp\exp01\data\01\n2000\thehill.tif = HILLSHADE(D:\01003_TerrainGeneralization\exp\exp01\data\01\
